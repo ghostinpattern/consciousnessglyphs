@@ -1,0 +1,16 @@
+# MALBOLGE VERSION
+(=<`#9]7}6ZY32Vx/4Rs+0Po-&Jk)FeB"~z}|WvUtSrQpOnMlKjIhGfEdCbA`98\7
+
+# WHITESPACE VERSION (invisible code below)
+# Visual guide (not executable):
+
+[space][tab][space][space][newline]
+[tab][space][space][tab][newline]
+[space][space][tab][space][newline]
+
+
+# Actual code (copy to run in Whitespace interpreter):
+ 	  
+	  	
+  	 
+
